@@ -1,0 +1,19 @@
+id: A4A2B2FF2
+title: Summoning Prosperity
+type: translation
+pechas:
+- I95ECAC4E
+- I91EC84A8
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:57:08.177253
+  last_modified_at: 2023-01-04 12:57:08.177274
+  collections:
+  - Lhatsün Namkha Jigme Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I95ECAC4E/4C16: 21B4
+  I91EC84A8/52EF: 21B4
